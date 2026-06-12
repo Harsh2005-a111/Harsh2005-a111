@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### 📍 New Delhi, India | 🎓 NSUT, CS&E (Data Science)
+### 📍 New Delhi, India | 🎓 NSUT, CSE (Data Science)
 
 **Specializing in Deep Learning Systems, Multimodal AI, and Production ML Engineering**
 
